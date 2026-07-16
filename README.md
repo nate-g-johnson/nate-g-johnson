@@ -8,7 +8,7 @@ I'm **Nathan Johnson**, a Software Development student at **Brigham Young Univer
 
 - I'm currently pursuing a Bachelor's degree in Software Development at BYU–Idaho.
 - I work as a Systems Administrator where I manage IT systems, automate workflows, and develop data-driven solutions.
-- I'm currently learning Kotlin, C#, SQL, Power BI, cloud technologies, and advanced software development concepts.
+- I'm currently learning Kotlin, C#, SQL, cloud technologies, and advanced software development concepts.
 - My goal is to become a Systems Engineer, Database Administrator, or Data Analytics professional who bridges the gap between IT infrastructure and software development.
 - Ask me about systems administration, SQL, Python automation, Google Sheets automation, or web development.
 
