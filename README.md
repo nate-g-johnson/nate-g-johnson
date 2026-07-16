@@ -61,16 +61,6 @@ Projects demonstrating object-oriented programming, data structures, algorithms,
 
 ---
 
-## 📈 GitHub Stats
-
->  `nate-g-johnson` 
-
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nate-g-johnson&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-g-johnson&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Let's Connect
 
 - **LinkedIn:** [https://www.linkedin.com](https://www.linkedin.com/in/nathan-johnson-9aa330373/)
